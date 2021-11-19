@@ -1,5 +1,5 @@
 ---
-title: "De vrais engagements"
+title: "Le goût du mélange"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
