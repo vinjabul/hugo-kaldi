@@ -4,9 +4,9 @@ heading: ELTZI, un concentré d'Alsace !
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: ELTZI, c'est un goût UNIQUE, franc et léger. Avec ses bulles toniques et
-        ses notes florales et fruités, ELTZI marie force et finesse pour
-        étancher votre soif et faire plaisir à vos papilles.
+      text: ELTZI, c'est un assemblage et un goût UNIQUE, franc et léger. Avec ses
+        bulles toniques et ses notes florales et fruités, ELTZI marie force et
+        finesse pour étancher votre soif et réveiller vos papilles.
     - image: /img/illustrations-coffee-gear.svg
       text: "ELTZI est une boisson fraîche, vive et saine. Légère et facile à boire,
         elle s'ouvre à toutes les occasions : de l'apéritif entre amis au repas
@@ -27,7 +27,7 @@ intro:
     vin, de jus de pomme et d'eau, consommé depuis toujours en Alsace et dans la
     région du Rhin.
 
-    Un retour aux sources pour vous offrir le plaisir immédiat d'une boisson fraîche et extrêmement désaltérante grâce à un assemblage unique élaboré avec des producteurs locaux.
+    Un retour aux sources pour vous offrir le plaisir immédiat d'une boisson fraîche et goûteuse, pétillante et extrêmement désaltérante.
 main:
   heading: "Une boisson saine et responsable : BIO, local, artisanal"
   description: >+
