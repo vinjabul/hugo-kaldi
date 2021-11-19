@@ -1,6 +1,6 @@
 ---
-title: "ELTZI, le Hard Seltzer authentique !"
-subtitle: BIO, 100 % ALSACE, ARTISANAL
+title: "-- ELTZI, le Hard Seltzer authentique ! --"
+subtitle: -- BIO, 100 % ALSACE, ARTISANAL --
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Pourquoi ELTZI ?
