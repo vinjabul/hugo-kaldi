@@ -15,16 +15,9 @@ intro:
     en calories. De quoi conjuguer plaisir à une consommation responsable !
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: ELTZI, c'est un assemblage et un goût UNIQUE, franc et léger. Avec ses bulles toniques et ses notes florales et fruités, ELTZI marie force et finesse pour étancher votre soif et réveiller vos papilles.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: ELTZI est une boisson fraîche, vive et saine. Légère et facile à boire, elle s'ouvre à toutes les occasions : de l'apéritif entre amis au repas de famille, de la terrasse du bistrot à la table du restaurant... 
 values:
   heading: Ce qui fait la différence !
   text: Eltzi est composé d'ingrédients de haute qualité, 100 % BIO, sélectionnés
