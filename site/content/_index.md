@@ -1,6 +1,6 @@
 ---
 title: "ELTZI, goûtez, vous serez surpris !"
-subtitle:BIO, 100 % ALSACE, ARTISANAL
+subtitle: BIO, 100 % ALSACE, ARTISANAL
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Pourquoi ELTZI ?
