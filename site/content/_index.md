@@ -7,13 +7,12 @@ blurb:
   text: ELTZI est une boisson légère et pétillante de fabrication artisanale,
     héritière de la tradition rhénane de l'Apfelweinschorle. ELTZI est composé
     d'un assemblage unique de vins blancs d'Alsace, de jus de pomme naturel et
-    d'eau de source. Goutez, vous serez surpris !
+    d'eau de source. Goûtez, vous serez surpris !
 intro:
   heading: Faible en alcool, fort en goût !
   text: >
     ELTZI est une boisson saine et très désaltérante, peu alcoolisée et faible
-    en calories. Elle vous permet de conjuguer le plaisir à une consommation
-    responsable.
+    en calories. De quoi conjuguer plaisir à une consommation responsable !
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
