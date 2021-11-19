@@ -17,7 +17,7 @@ products:
   - image: img/illustrations-coffee.svg
     text: ELTZI, c'est un assemblage et un goût UNIQUE, franc et léger. Avec ses bulles toniques et ses notes florales et fruités, ELTZI marie force et finesse pour étancher votre soif et réveiller vos papilles.
   - image: /img/illustrations-coffee-gear.svg
-    text: ELTZI est une boisson fraîche, vive et saine. Légère et facile à boire, elle s'ouvre à toutes les occasions : de l'apéritif entre amis au repas de famille, de la terrasse du bistrot à la table du restaurant... 
+    text: ELTZI  
 values:
   heading: Ce qui fait la différence !
   text: Eltzi est composé d'ingrédients de haute qualité, 100 % BIO, sélectionnés
