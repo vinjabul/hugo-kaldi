@@ -4,46 +4,39 @@ heading: ELTZI, un concentré d'Alsace !
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: ELTZI, c'est un goût UNIQUE, franc et léger. Avec ses bulles toniques et
+        ses notes florales et fruités, ELTZI marie force et finesse pour
+        étancher votre soif et faire plaisir à vos papilles.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: "ELTZI est une boisson fraîche, vive et saine. Légère et facile à boire,
+        elle s'ouvre à toutes les occasions : de l'apéritif entre amis au repas
+        de famille, de la terrasse du bistrot à la table du restaurant... "
     - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: "À l'image de l'Alsace, ELTZI, est une boisson GÉNÉREUSE, majoritairement
+        composée d'un assemblage unique de cépages blancs d'Alsace et de
+        variétés traditionnelles de pommes à jus. Elle n'en ai pas moins faible
+        en calories.  Dans son format standard de 50 cl, une bouteille d'ELTZI
+        se partage sans soucis ! "
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: Une boisson unique et authentique
-  description: >+
-    À la fois léger et généreux, ELTZI est majoritairement composé de vin blanc
-    d'Alsace BIO dont la fraîcheur et la finesse sont mondialement reconnues, de
-    jus de pomme naturel d’Alsace BIO. Une eau de source vient lui apporter
-    légèreté et effervescence.
+      text: Ouvrir une bouteille d'ELTZI, c'est apprécier l'équilibre subtil entre la
+        finesse d'un assemblage unique de vins blancs d'Alsace, la rondeur
+        acidulée d'un jus de pomme naturel et la pureté d'une eau de source.
+  heading: Un Hard Seltzer unique et authentique
+  description: >-
+    ELTZI, c'est la tradition réinventée de l'Apfelweinschoerle, ce mélange de
+    vin, de jus de pomme et d'eau, consommé depuis toujours en Alsace et dans la
+    région du Rhin.
 
+    Un retour aux sources pour vous offrir le plaisir immédiat d'une boisson fraîche et extrêmement désaltérante grâce à un assemblage unique élaboré avec des producteurs locaux.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: "Une boisson saine et responsable : BIO, local, artisanal"
+  description: >+
+    Authentique dans ses origines, naturel dans sa composition, avec moins
+    d'alcool, sans sucre ajoutés, sans additifs, ELTZI ne fait pas de compromis
+    ! Produit de façon artisanale en Alsace, ELTZI a d'abord vocation à être
+    consommé localement dans son berceau d'origine, la plaine du Rhin. L'export
+    en avion, ce n'est pas pour nous !
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
