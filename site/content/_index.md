@@ -1,5 +1,5 @@
 ---
-title: "ELTZI, goûtez, vous serez surpris !"
+title: "ELTZI, le Hard Seltzer authentique !"
 subtitle: BIO, 100 % ALSACE, ARTISANAL
 image: /img/home-jumbotron.jpg
 blurb:
